@@ -1,0 +1,7 @@
+#+title: demigod-mode.el
+#+author: Will Dey
+
+describe-prefix bindings disabled. Use Which Key
+
+Which Key minibuffer option disabled. Use side windows or frames. Side window on bottom looks like minibuffer
+Which Key C-h commands don't work. ~which-key-use-C-h-commands~ to ~nil~ highly recommended. Undo-key already implemented, rest is weird UX.
